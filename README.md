@@ -8,7 +8,7 @@
    me gusta utilizar mi conocimiento para construir experiencias web de alta calidad.
 
 
-😄 ### Contacto  
+### Contacto  😄 
 - 💬 [Linkkedin](https://www.linkedin.com/in/gatamara/)
 - 📫 Correo Electronico: dev.tamara9@gmail.com
 
