@@ -9,7 +9,7 @@
 
 
 ### Contacto  😄 
-- 💬 [Linkkedin](https://www.linkedin.com/in/gatamara/)
+- 💬 [Linkedin](https://www.linkedin.com/in/gatamara/)
 - 📫 Correo Electronico: dev.tamara9@gmail.com
 
 - ⚡ Ve mis proyectos  : [Portafolio](https://gatamara.me/)  !!!
